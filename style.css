@@ -19,20 +19,20 @@ h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     font-size: 40px;
-    background-color: purple;
+    background-color: yellow;
 }
 .content{
-    background-color: purple;
+    background-color: yellow;
     margin-left: 250px;
     width: 800px;
   box-shadow: 5px 5px 5px palevioletred;
   
 }
 strong{
-    background-color: purple;
+    background-color: yellow;
 }
 b{
-    background-color: purple;
+    background-color: yellow;
 }
 p{
     font-size: 20px;
